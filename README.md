@@ -1,4 +1,4 @@
 # kurva_srivani
-[[Assignment_1]](https://nift-web-design.github.io/kurva_srivanii/Assignment_1)
-[[Assignment_2]](https://nift-web-design.github.io/kurva_srivanii/Assignment_2)
-[[Assignment_3]](https://nift-web-design.github.io/kurva_srivanii/Assignment_3)
+[Website]](https://nift-web-design.github.io/kurva_srivanii/Assignment_1)
+[[Resume]](https://nift-web-design.github.io/kurva_srivanii/Assignment_2)
+[[Pembarthi]](https://nift-web-design.github.io/kurva_srivanii/Assignment_3)
